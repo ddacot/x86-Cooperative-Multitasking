@@ -23,4 +23,4 @@ The context switch is achieved by each of the tasks yielding periodically to the
 
 # Result
 
-![result](result.png "result")
+![result](https://github.com/ddacot/x86-Cooperative-Multitasking/blob/main/Result.PNG "result")
